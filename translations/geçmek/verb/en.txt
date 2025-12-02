@@ -1,0 +1,10 @@
+pass
+cross
+go by
+elapse
+move
+overtake
+transition
+transfer
+skip
+surpass

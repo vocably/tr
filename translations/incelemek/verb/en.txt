@@ -1,0 +1,5 @@
+examine
+inspect
+analyze
+study
+review
