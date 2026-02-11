@@ -1,0 +1,7 @@
+unchanging
+constant
+stable
+permanent
+fixed
+unalterable
+durable

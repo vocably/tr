@@ -1,0 +1,8 @@
+shape
+form
+figure
+diagram
+illustration
+style
+way
+method

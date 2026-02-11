@@ -1,0 +1,6 @@
+error
+mistake
+fault
+bug
+defect
+flaw

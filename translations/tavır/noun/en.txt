@@ -1,0 +1,8 @@
+attitude
+stance
+behavior
+manner
+posture
+bearing
+disposition
+approach

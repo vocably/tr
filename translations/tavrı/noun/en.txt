@@ -1,0 +1,5 @@
+attitude
+behavior
+stance
+manner
+bearing

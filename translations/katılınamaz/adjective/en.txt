@@ -1,0 +1,5 @@
+unjoinable
+unparticipatable
+unapprovable
+unconfirmable
+unverifiable

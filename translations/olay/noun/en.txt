@@ -1,0 +1,7 @@
+event
+incident
+case
+occurrence
+affair
+happening
+phenomenon

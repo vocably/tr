@@ -1,0 +1,6 @@
+price
+cost
+value
+equivalent
+worth
+compensation
