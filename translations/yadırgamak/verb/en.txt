@@ -1,0 +1,2 @@
+find strange
+find odd
