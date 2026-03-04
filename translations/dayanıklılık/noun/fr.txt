@@ -1,0 +1,1 @@
+["résistance","durabilité"]

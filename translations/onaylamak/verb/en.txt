@@ -1,2 +1,1 @@
-to approve
-to confirm
+["to approve","to confirm","to endorse"]
