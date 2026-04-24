@@ -1,0 +1,4 @@
+tone
+shade
+mood
+ton

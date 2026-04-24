@@ -1,0 +1,4 @@
+hard
+solid
+strict
+rigid

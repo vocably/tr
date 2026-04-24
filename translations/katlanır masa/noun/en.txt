@@ -1,0 +1,2 @@
+folding table
+collapsible table
