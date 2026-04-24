@@ -1,1 +1,2 @@
-["kompleksowy","obszerny"]
+kompleksowy
+obszerny

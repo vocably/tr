@@ -1,1 +1,2 @@
-["tabia","hali"]
+tabia
+hali

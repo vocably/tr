@@ -1,1 +1,3 @@
-["heaks kiitma","kinnitama","aktsepteerima"]
+heaks kiitma
+kinnitama
+aktsepteerima

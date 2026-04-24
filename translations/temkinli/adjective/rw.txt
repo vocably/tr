@@ -1,1 +1,2 @@
-["Umunyamakenga","Uwitonda"]
+Umunyamakenga
+Uwitonda

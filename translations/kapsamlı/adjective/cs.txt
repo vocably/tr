@@ -1,1 +1,2 @@
-["komplexní","rozsáhlý"]
+komplexní
+rozsáhlý

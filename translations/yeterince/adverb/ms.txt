@@ -1,1 +1,2 @@
-["cukup","memadai"]
+cukup
+memadai

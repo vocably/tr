@@ -1,1 +1,3 @@
-["pensi","mediti","zorgi"]
+pensi
+mediti
+zorgi

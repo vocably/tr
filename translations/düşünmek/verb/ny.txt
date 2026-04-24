@@ -1,1 +1,3 @@
-["kuganiza","kusinkhasinkha","kudandaula"]
+kuganiza
+kusinkhasinkha
+kudandaula

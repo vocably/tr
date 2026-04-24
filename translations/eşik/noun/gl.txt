@@ -1,1 +1,3 @@
-["limiar","soleira","lombo"]
+limiar
+soleira
+lombo

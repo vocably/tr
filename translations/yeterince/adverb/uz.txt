@@ -1,1 +1,2 @@
-["yetarlicha","kifoyacha"]
+yetarlicha
+kifoyacha

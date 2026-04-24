@@ -1,1 +1,3 @@
-["kết quả","hậu quả","hệ quả"]
+kết quả
+hậu quả
+hệ quả

@@ -1,1 +1,2 @@
-["kwihangana","kuramba"]
+kwihangana
+kuramba

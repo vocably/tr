@@ -1,1 +1,3 @@
-["myslieť","uvažovať","premýšľať"]
+myslieť
+uvažovať
+premýšľať

@@ -1,1 +1,2 @@
-["frou","lëschteg"]
+frou
+lëschteg

@@ -1,1 +1,2 @@
-["bihemd","hîşyar"]
+bihemd
+hîşyar

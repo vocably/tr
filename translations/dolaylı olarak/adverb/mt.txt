@@ -1,1 +1,2 @@
-["indirettament","bil-pulit"]
+indirettament
+bil-pulit

@@ -1,1 +1,2 @@
-["ærlighet","redelighet"]
+ærlighet
+redelighet

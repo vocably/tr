@@ -1,1 +1,2 @@
-["schrittweise","allmählich"]
+schrittweise
+allmählich

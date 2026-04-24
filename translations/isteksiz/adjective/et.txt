@@ -1,1 +1,2 @@
-["vastumeelne","ebasõbralik"]
+vastumeelne
+ebasõbralik

@@ -1,1 +1,2 @@
-["epäsuorasti","välillisesti"]
+epäsuorasti
+välillisesti

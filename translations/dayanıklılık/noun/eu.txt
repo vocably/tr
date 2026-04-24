@@ -1,1 +1,2 @@
-["erresistentzia","iraunkortasun"]
+erresistentzia
+iraunkortasun

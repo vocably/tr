@@ -1,1 +1,3 @@
-["impurtante","maiu","rimarchevule"]
+impurtante
+maiu
+rimarchevule

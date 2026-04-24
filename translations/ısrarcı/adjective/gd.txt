@@ -1,1 +1,2 @@
-["sticket","thrawn"]
+sticket
+thrawn

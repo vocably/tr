@@ -1,1 +1,2 @@
-["perangai","watak"]
+perangai
+watak

@@ -1,1 +1,2 @@
-["veseo","zabavan"]
+veseo
+zabavan

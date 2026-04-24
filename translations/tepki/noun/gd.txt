@@ -1,1 +1,2 @@
-["freagairt","dòigh"]
+freagairt
+dòigh

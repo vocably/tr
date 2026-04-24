@@ -1,1 +1,2 @@
-["stuam","gnàths"]
+stuam
+gnàths

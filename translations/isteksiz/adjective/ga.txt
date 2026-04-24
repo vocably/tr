@@ -1,1 +1,2 @@
-["droim ar ais","leisceáilte"]
+droim ar ais
+leisceáilte

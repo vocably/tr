@@ -1,1 +1,2 @@
-["ka mokhoa o sa tobang","ka tsela e sa otlolohileng"]
+ka mokhoa o sa tobang
+ka tsela e sa otlolohileng

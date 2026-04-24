@@ -1,1 +1,3 @@
-["to think","to consider","to worry"]
+to think
+to consider
+to worry

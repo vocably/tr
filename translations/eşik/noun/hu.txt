@@ -1,1 +1,3 @@
-["küszöb","határ","nyereg"]
+küszöb
+határ
+nyereg

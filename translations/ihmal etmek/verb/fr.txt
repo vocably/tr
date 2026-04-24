@@ -1,1 +1,2 @@
-["négliger","négliger de faire"]
+négliger
+négliger de faire

@@ -1,1 +1,2 @@
-["nevoljan","bezvoljan"]
+nevoljan
+bezvoljan

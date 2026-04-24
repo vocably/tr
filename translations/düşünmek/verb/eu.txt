@@ -1,1 +1,3 @@
-["pentsatu","gogoeta egin","arduratu"]
+pentsatu
+gogoeta egin
+arduratu

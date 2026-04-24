@@ -1,1 +1,3 @@
-["sitou","espesyalman","an patikilye"]
+sitou
+espesyalman
+an patikilye

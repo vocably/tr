@@ -1,1 +1,2 @@
-["nerekte","malrekte"]
+nerekte
+malrekte

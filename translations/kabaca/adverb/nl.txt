@@ -1,1 +1,2 @@
-["grofweg","ongeveer"]
+grofweg
+ongeveer

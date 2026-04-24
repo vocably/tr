@@ -1,1 +1,2 @@
-["Ehrlichkeit","Redlichkeit"]
+Ehrlichkeit
+Redlichkeit

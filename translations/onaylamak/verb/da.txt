@@ -1,1 +1,3 @@
-["godkende","bekræfte","stadfæste"]
+godkende
+bekræfte
+stadfæste

@@ -1,1 +1,2 @@
-["maj mam","theem zuj zus"]
+maj mam
+theem zuj zus

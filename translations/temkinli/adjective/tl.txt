@@ -1,1 +1,2 @@
-["maingat","matalino"]
+maingat
+matalino

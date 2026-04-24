@@ -1,1 +1,3 @@
-["batez ere","bereziki","zehazki"]
+batez ere
+bereziki
+zehazki

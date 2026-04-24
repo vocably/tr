@@ -1,1 +1,2 @@
-["mpana","jumuishi"]
+mpana
+jumuishi

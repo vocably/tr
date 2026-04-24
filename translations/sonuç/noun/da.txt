@@ -1,1 +1,3 @@
-["result","konsekvens","udfald"]
+result
+konsekvens
+udfald

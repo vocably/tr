@@ -1,1 +1,2 @@
-["palaipsniui","laipsniškai"]
+palaipsniui
+laipsniškai

@@ -1,1 +1,3 @@
-["paapaa","ni pato","ni afikun"]
+paapaa
+ni pato
+ni afikun

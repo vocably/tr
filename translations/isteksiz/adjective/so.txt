@@ -1,1 +1,2 @@
-["caajis","rabitaan la'aan"]
+caajis
+rabitaan la'aan

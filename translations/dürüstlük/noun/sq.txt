@@ -1,1 +1,2 @@
-["ndërgjegjshmëri","ndershmëri"]
+ndërgjegjshmëri
+ndershmëri

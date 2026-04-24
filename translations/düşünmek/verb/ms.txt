@@ -1,1 +1,3 @@
-["memikirkan","merenungkan","berfikir"]
+memikirkan
+merenungkan
+berfikir

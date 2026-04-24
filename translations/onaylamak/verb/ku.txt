@@ -1,1 +1,3 @@
-["erêkirin","pesendkirin","tasdîqkirin"]
+erêkirin
+pesendkirin
+tasdîqkirin

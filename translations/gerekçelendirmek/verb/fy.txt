@@ -1,1 +1,2 @@
-["rjochtfeardigje","ferklearje"]
+rjochtfeardigje
+ferklearje

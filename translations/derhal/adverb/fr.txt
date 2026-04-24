@@ -1,1 +1,2 @@
-["immédiatement","tout de suite"]
+immédiatement
+tout de suite

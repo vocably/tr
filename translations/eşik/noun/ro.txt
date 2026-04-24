@@ -1,1 +1,2 @@
-["prag","șea"]
+prag
+șea

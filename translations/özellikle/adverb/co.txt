@@ -1,1 +1,3 @@
-["in particulare","specialmente","soprattuttu"]
+in particulare
+specialmente
+soprattuttu

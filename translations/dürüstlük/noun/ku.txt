@@ -1,1 +1,2 @@
-["durustî","rastgojî"]
+durustî
+rastgojî

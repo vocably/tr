@@ -1,1 +1,2 @@
-["mərhələli şəkildə","tədricən"]
+mərhələli şəkildə
+tədricən

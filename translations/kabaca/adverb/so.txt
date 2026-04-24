@@ -1,1 +1,2 @@
-["si qallafsan","qiyaas ahaan"]
+si qallafsan
+qiyaas ahaan

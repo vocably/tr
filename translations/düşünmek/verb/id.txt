@@ -1,1 +1,3 @@
-["memikirkan","merenungkan","mencemaskan"]
+memikirkan
+merenungkan
+mencemaskan

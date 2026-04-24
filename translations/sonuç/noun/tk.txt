@@ -1,1 +1,3 @@
-["netije","jemleýji","ahyrky"]
+netije
+jemleýji
+ahyrky

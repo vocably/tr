@@ -1,1 +1,2 @@
-["reakcia","odpoveď"]
+reakcia
+odpoveď

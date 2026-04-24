@@ -1,1 +1,2 @@
-["ustahimilivu","ukakamavu"]
+ustahimilivu
+ukakamavu

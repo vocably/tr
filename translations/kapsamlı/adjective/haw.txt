@@ -1,1 +1,2 @@
-["lahui","ākea"]
+lahui
+ākea

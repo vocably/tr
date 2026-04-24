@@ -1,1 +1,3 @@
-["machnamh a dhéanamh","smaoineamh","cúram a dhéanamh"]
+machnamh a dhéanamh
+smaoineamh
+cúram a dhéanamh

@@ -1,1 +1,3 @@
-["cudromach","luachmhor","sònraichte"]
+cudromach
+luachmhor
+sònraichte

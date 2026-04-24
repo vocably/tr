@@ -1,1 +1,2 @@
-["bingehkirin","maqûlkirin"]
+bingehkirin
+maqûlkirin

@@ -1,1 +1,3 @@
-["befêstigje","goedkarre","bekrêftigje"]
+befêstigje
+goedkarre
+bekrêftigje

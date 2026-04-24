@@ -1,1 +1,2 @@
-["cheerful","pleasant"]
+cheerful
+pleasant

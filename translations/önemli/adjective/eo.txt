@@ -1,1 +1,3 @@
-["grava","signifa","valora"]
+grava
+signifa
+valora

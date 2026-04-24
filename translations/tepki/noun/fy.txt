@@ -1,1 +1,2 @@
-["reaksje","tebekwurking"]
+reaksje
+tebekwurking

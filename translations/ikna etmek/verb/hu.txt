@@ -1,1 +1,2 @@
-["meggyőzni","rábeszélni"]
+meggyőzni
+rábeszélni

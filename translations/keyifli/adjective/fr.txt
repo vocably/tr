@@ -1,1 +1,2 @@
-["joyeux","agréable"]
+joyeux
+agréable

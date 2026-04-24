@@ -1,1 +1,2 @@
-["a justifica","a motiva"]
+a justifica
+a motiva

@@ -1,1 +1,2 @@
-["ngokungaqondile","ngokusebenzisa"]
+ngokungaqondile
+ngokusebenzisa

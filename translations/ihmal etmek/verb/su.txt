@@ -1,1 +1,2 @@
-["ngantepkeun","ngabaikeun"]
+ngantepkeun
+ngabaikeun

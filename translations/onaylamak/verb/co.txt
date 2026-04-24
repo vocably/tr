@@ -1,1 +1,3 @@
-["appruvà","cunfirmà","validà"]
+appruvà
+cunfirmà
+validà

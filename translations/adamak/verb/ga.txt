@@ -1,1 +1,2 @@
-["tiomáin","coisric"]
+tiomáin
+coisric

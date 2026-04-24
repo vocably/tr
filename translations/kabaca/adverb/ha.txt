@@ -1,1 +1,2 @@
-["ba tare da ladabi ba","kusan"]
+ba tare da ladabi ba
+kusan

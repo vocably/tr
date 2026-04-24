@@ -1,1 +1,2 @@
-["grob o","približno"]
+grob o
+približno

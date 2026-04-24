@@ -1,1 +1,2 @@
-["indirect","indirectly"]
+indirect
+indirectly

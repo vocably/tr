@@ -1,1 +1,2 @@
-["kajujuran","kaikhlasan"]
+kajujuran
+kaikhlasan

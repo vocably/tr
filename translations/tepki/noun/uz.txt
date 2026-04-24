@@ -1,1 +1,2 @@
-["reaksiya","munosabat"]
+reaksiya
+munosabat

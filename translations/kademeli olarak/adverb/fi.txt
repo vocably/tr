@@ -1,1 +1,2 @@
-["asteittain","vähitellen"]
+asteittain
+vähitellen

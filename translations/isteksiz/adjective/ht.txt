@@ -1,1 +1,2 @@
-["retisan","endispoze"]
+retisan
+endispoze

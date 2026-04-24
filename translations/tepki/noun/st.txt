@@ -1,1 +1,2 @@
-["karabelo","boitšisinyo"]
+karabelo
+boitšisinyo

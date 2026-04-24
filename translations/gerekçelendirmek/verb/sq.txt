@@ -1,1 +1,2 @@
-["justifikoj","arrij"]
+justifikoj
+arrij

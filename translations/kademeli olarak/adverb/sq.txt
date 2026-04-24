@@ -1,1 +1,2 @@
-["gradualisht","hap pas hapi"]
+gradualisht
+hap pas hapi

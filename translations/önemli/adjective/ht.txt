@@ -1,1 +1,3 @@
-["enpòtan","serye","konsiderab"]
+enpòtan
+serye
+konsiderab

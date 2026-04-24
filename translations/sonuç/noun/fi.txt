@@ -1,1 +1,3 @@
-["tulos","seuraus","lopputulos"]
+tulos
+seuraus
+lopputulos

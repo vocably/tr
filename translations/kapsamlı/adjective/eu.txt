@@ -1,1 +1,2 @@
-["zabala","zabalki"]
+zabala
+zabalki

@@ -1,1 +1,3 @@
-["posebno","naročito","posebice"]
+posebno
+naročito
+posebice

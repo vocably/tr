@@ -1,1 +1,2 @@
-["mkaidi","mshupavu"]
+mkaidi
+mshupavu

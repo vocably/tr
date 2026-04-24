@@ -1,1 +1,2 @@
-["indirekt","på omvägar"]
+indirekt
+på omvägar

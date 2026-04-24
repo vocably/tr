@@ -1,1 +1,2 @@
-["nenoriai","abejingai"]
+nenoriai
+abejingai

@@ -1,1 +1,2 @@
-["mwamwano","pafupifupi"]
+mwamwano
+pafupifupi

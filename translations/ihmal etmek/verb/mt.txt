@@ -1,1 +1,2 @@
-["ittraskura","tinjorahom"]
+ittraskura
+tinjorahom

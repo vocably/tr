@@ -1,1 +1,2 @@
-["u hurid","u go'i"]
+u hurid
+u go'i

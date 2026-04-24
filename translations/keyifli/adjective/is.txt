@@ -1,1 +1,2 @@
-["ánægður","skemmtilegur"]
+ánægður
+skemmtilegur

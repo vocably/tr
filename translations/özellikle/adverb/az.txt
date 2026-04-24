@@ -1,1 +1,3 @@
-["xüsusilə","özəlliklə","bilxassə"]
+xüsusilə
+özəlliklə
+bilxassə

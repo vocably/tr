@@ -1,1 +1,3 @@
-["schválit","potvrdit","ověřit"]
+schválit
+potvrdit
+ověřit

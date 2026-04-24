@@ -1,1 +1,2 @@
-["alde batera utzi","utzikeriaz jokatu"]
+alde batera utzi
+utzikeriaz jokatu

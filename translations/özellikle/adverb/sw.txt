@@ -1,1 +1,3 @@
-["hasa","hususan","kwa namna ya pekee"]
+hasa
+hususan
+kwa namna ya pekee

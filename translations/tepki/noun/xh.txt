@@ -1,1 +1,2 @@
-["impendulo","isimo sengqondo"]
+impendulo
+isimo sengqondo

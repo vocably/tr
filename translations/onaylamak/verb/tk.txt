@@ -1,1 +1,3 @@
-["tassyk etmek","makullamak","kanunlaşdyrmak"]
+tassyk etmek
+makullamak
+kanunlaşdyrmak

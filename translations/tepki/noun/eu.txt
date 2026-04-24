@@ -1,1 +1,2 @@
-["erreakzio","erantzun"]
+erreakzio
+erantzun

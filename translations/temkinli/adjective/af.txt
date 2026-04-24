@@ -1,1 +1,2 @@
-["versigtig","bedagsaam"]
+versigtig
+bedagsaam

@@ -1,1 +1,2 @@
-["Nazar","Ngaturake"]
+Nazar
+Ngaturake

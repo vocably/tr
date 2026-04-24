@@ -1,1 +1,2 @@
-["indisposto","apático"]
+indisposto
+apático

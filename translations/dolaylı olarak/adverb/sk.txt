@@ -1,1 +1,2 @@
-["nepriamo","okľukou"]
+nepriamo
+okľukou

@@ -1,1 +1,2 @@
-["oprezan","promišljen"]
+oprezan
+promišljen

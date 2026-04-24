@@ -1,1 +1,2 @@
-["marar so","marar sha'awa"]
+marar so
+marar sha'awa

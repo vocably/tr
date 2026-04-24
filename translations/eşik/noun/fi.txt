@@ -1,1 +1,3 @@
-["kynnys","rajapyykki","harjanne"]
+kynnys
+rajapyykki
+harjanne

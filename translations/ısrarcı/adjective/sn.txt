@@ -1,1 +1,2 @@
-["anetsa","asingazive"]
+anetsa
+asingazive

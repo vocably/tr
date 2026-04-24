@@ -1,1 +1,2 @@
-["ʻano","kino"]
+ʻano
+kino

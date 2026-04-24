@@ -1,1 +1,2 @@
-["eerlijkheid","integriteit"]
+eerlijkheid
+integriteit

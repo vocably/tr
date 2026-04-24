@@ -1,1 +1,3 @@
-["at tænke","at overveje","at bekymre sig"]
+at tænke
+at overveje
+at bekymre sig

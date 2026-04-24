@@ -1,1 +1,2 @@
-["dovolj","zadosti"]
+dovolj
+zadosti

@@ -1,1 +1,2 @@
-["yekser","di cih de"]
+yekser
+di cih de

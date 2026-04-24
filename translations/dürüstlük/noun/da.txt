@@ -1,1 +1,2 @@
-["ærlighed","redelighed"]
+ærlighed
+redelighed

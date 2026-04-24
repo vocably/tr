@@ -1,1 +1,3 @@
-["tulemus","tagajärg","järelm"]
+tulemus
+tagajärg
+järelm

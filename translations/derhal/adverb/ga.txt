@@ -1,1 +1,2 @@
-["láithreach","ar an bpointe boise"]
+láithreach
+ar an bpointe boise

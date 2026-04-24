@@ -1,1 +1,3 @@
-["pagtibayin","patunayan","sang-ayunan"]
+pagtibayin
+patunayan
+sang-ayunan

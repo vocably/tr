@@ -1,1 +1,3 @@
-["matokeo","natija","hitimisho"]
+matokeo
+natija
+hitimisho

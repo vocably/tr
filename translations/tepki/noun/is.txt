@@ -1,1 +1,2 @@
-["viðbrögð","afstaða"]
+viðbrögð
+afstaða

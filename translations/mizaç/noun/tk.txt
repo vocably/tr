@@ -1,1 +1,2 @@
-["häsiýet","tabigat"]
+häsiýet
+tabigat

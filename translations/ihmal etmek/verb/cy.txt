@@ -1,1 +1,2 @@
-["esgeuluso","llacáu"]
+esgeuluso
+llacáu

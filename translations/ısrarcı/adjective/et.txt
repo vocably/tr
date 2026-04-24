@@ -1,1 +1,2 @@
-["pealekäiv","nõudlik"]
+pealekäiv
+nõudlik

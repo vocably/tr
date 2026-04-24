@@ -1,1 +1,2 @@
-["daacadnimo","runnimo"]
+daacadnimo
+runnimo

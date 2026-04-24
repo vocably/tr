@@ -1,1 +1,2 @@
-["giň","kapsamly"]
+giň
+kapsamly

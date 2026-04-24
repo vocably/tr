@@ -1,1 +1,2 @@
-["ýeterlik","ýeterli"]
+ýeterlik
+ýeterli

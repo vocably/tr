@@ -1,1 +1,3 @@
-["cadarnhau","cymeradwyo","dilysu"]
+cadarnhau
+cymeradwyo
+dilysu

@@ -1,1 +1,3 @@
-["suy nghĩ","nghĩ","lo lắng"]
+suy nghĩ
+nghĩ
+lo lắng

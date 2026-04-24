@@ -1,1 +1,2 @@
-["sunndach","aoibhneach"]
+sunndach
+aoibhneach

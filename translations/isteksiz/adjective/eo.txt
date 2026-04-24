@@ -1,1 +1,2 @@
-["malvolonta","senapetita"]
+malvolonta
+senapetita

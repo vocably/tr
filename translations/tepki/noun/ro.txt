@@ -1,1 +1,2 @@
-["reacție","răspuns"]
+reacție
+răspuns

@@ -1,1 +1,3 @@
-["penting","istimewa","kawéntar"]
+penting
+istimewa
+kawéntar

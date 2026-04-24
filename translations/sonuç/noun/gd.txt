@@ -1,1 +1,3 @@
-["buaidh","toradh","co-dhùnadh"]
+buaidh
+toradh
+co-dhùnadh

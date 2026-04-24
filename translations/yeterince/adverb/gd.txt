@@ -1,1 +1,2 @@
-["gu leòr","gu ìre mhath"]
+gu leòr
+gu ìre mhath

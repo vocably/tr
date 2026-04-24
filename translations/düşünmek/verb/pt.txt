@@ -1,1 +1,3 @@
-["raciocinar","pensar","refletir"]
+raciocinar
+pensar
+refletir

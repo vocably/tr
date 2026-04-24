@@ -1,1 +1,2 @@
-["tairseach","droim"]
+tairseach
+droim

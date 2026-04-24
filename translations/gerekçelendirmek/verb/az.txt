@@ -1,1 +1,2 @@
-["əsaslandırmaq","səbəbləndirmək"]
+əsaslandırmaq
+səbəbləndirmək

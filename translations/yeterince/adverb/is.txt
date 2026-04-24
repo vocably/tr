@@ -1,1 +1,2 @@
-["nóg","nógur"]
+nóg
+nógur

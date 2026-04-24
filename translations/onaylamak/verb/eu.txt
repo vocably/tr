@@ -1,1 +1,3 @@
-["onartu","baieztatu","baliozkotu"]
+onartu
+baieztatu
+baliozkotu

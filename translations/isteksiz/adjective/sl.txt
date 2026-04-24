@@ -1,1 +1,2 @@
-["nejevoljen","brezvoljen"]
+nejevoljen
+brezvoljen

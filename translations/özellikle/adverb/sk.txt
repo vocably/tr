@@ -1,1 +1,3 @@
-["predovšetkým","hlavne","najmä"]
+predovšetkým
+hlavne
+najmä

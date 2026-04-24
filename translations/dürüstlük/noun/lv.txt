@@ -1,1 +1,2 @@
-["godīgums","atklātība"]
+godīgums
+atklātība

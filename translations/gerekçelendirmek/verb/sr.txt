@@ -1,1 +1,2 @@
-["opravdati","obrazložiti"]
+opravdati
+obrazložiti

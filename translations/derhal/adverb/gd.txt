@@ -1,1 +1,2 @@
-["gun bhàraich","air ball"]
+gun bhàraich
+air ball

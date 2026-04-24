@@ -1,1 +1,2 @@
-["vui vẻ","thú vị"]
+vui vẻ
+thú vị

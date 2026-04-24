@@ -1,1 +1,3 @@
-["a gândi","a cugeta","a se gândi"]
+a gândi
+a cugeta
+a se gândi

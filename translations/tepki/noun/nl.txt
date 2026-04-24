@@ -1,1 +1,2 @@
-["reactie","respons"]
+reactie
+respons

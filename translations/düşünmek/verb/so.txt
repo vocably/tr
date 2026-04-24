@@ -1,1 +1,3 @@
-["fikir","kafa","malay"]
+fikir
+kafa
+malay

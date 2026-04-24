@@ -1,1 +1,3 @@
-["pensare","riflettere","preoccuparsi"]
+pensare
+riflettere
+preoccuparsi

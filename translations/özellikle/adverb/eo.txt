@@ -1,1 +1,3 @@
-["precipe","aparte","speciale"]
+precipe
+aparte
+speciale

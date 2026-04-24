@@ -1,1 +1,2 @@
-["weien","widmen"]
+weien
+widmen

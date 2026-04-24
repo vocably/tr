@@ -1,1 +1,3 @@
-["threshold","sill","divide"]
+threshold
+sill
+divide

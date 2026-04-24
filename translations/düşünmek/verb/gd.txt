@@ -1,1 +1,3 @@
-["smaoineachadh","beachdachadh","gabh dragh"]
+smaoineachadh
+beachdachadh
+gabh dragh

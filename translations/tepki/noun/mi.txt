@@ -1,1 +1,2 @@
-["urunga","whakautu"]
+urunga
+whakautu

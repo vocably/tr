@@ -1,1 +1,3 @@
-["sakamako","natija","karshe"]
+sakamako
+natija
+karshe

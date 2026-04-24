@@ -1,1 +1,3 @@
-["nadenken","overwegen","zich afvragen"]
+nadenken
+overwegen
+zich afvragen

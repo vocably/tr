@@ -1,1 +1,2 @@
-["Umuhoza","Umuvugizi"]
+Umuhoza
+Umuvugizi

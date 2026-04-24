@@ -1,1 +1,2 @@
-["umsichtig","besonnen"]
+umsichtig
+besonnen

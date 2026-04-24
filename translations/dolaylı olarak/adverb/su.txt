@@ -1,1 +1,2 @@
-["sacara teu langsung","sacara henteu langsung"]
+sacara teu langsung
+sacara henteu langsung

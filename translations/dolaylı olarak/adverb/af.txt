@@ -1,1 +1,2 @@
-["indirek","onregstreeks"]
+indirek
+onregstreeks

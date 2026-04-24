@@ -1,1 +1,2 @@
-["qëndresë","rezistencë"]
+qëndresë
+rezistencë

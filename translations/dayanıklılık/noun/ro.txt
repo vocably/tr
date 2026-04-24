@@ -1,1 +1,2 @@
-["rezistență","durabilitate"]
+rezistență
+durabilitate

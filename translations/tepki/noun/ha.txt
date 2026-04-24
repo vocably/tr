@@ -1,1 +1,2 @@
-["martani","amsa"]
+martani
+amsa

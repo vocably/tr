@@ -1,1 +1,2 @@
-["to convince","to persuade"]
+to convince
+to persuade

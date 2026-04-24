@@ -1,1 +1,2 @@
-["ćud","temperament"]
+ćud
+temperament

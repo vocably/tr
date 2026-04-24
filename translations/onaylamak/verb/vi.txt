@@ -1,1 +1,3 @@
-["xác nhận","chấp thuận","phê duyệt"]
+xác nhận
+chấp thuận
+phê duyệt

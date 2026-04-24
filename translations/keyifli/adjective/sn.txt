@@ -1,1 +1,2 @@
-["anofara","inonakidza"]
+anofara
+inonakidza

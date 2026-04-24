@@ -1,1 +1,2 @@
-["Unti-unti","Paunti-unti"]
+Unti-unti
+Paunti-unti

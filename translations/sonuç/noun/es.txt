@@ -1,1 +1,3 @@
-["resultado","conclusión","consecuencia"]
+resultado
+conclusión
+consecuencia

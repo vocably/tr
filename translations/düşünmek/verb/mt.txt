@@ -1,1 +1,3 @@
-["taħseb","tikkunsidra","tinkwieta"]
+taħseb
+tikkunsidra
+tinkwieta

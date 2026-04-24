@@ -1,1 +1,2 @@
-["dogrulyk","ak yüreklilik"]
+dogrulyk
+ak yüreklilik

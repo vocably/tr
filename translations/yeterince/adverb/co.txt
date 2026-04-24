@@ -1,1 +1,2 @@
-["abbastanza","à sufficienza"]
+abbastanza
+à sufficienza

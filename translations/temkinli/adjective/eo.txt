@@ -1,1 +1,2 @@
-["prudenta","singarda"]
+prudenta
+singarda

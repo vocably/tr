@@ -1,1 +1,2 @@
-["temperament","narava"]
+temperament
+narava

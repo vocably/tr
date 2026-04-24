@@ -1,1 +1,2 @@
-["prag","razvodnica"]
+prag
+razvodnica

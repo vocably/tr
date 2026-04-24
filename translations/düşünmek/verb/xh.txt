@@ -1,1 +1,3 @@
-["cinga","cinga ngento","khathazeka"]
+cinga
+cinga ngento
+khathazeka

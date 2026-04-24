@@ -1,1 +1,3 @@
-["menyetujui","mengkonfirmasi","mengesahkan"]
+menyetujui
+mengkonfirmasi
+mengesahkan

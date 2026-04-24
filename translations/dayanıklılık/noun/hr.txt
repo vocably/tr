@@ -1,1 +1,2 @@
-["otpornost","izdržljivost"]
+otpornost
+izdržljivost

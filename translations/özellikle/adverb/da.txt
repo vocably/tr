@@ -1,1 +1,3 @@
-["især","specielt","særligt"]
+især
+specielt
+særligt

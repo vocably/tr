@@ -1,1 +1,3 @@
-["phello","sephetho","qetello"]
+phello
+sephetho
+qetello

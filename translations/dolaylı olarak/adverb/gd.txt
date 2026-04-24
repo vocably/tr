@@ -1,1 +1,2 @@
-["gu neo-dhìreach","gu cam"]
+gu neo-dhìreach
+gu cam

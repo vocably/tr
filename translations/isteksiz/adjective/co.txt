@@ -1,1 +1,2 @@
-["svogliatu","senza voglia"]
+svogliatu
+senza voglia

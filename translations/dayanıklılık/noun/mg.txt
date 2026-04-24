@@ -1,1 +1,2 @@
-["fanoherana","faharetana"]
+fanoherana
+faharetana

@@ -1,1 +1,2 @@
-["vastupidavus","kestvus"]
+vastupidavus
+kestvus

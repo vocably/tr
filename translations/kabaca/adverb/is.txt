@@ -1,1 +1,2 @@
-["gróflega","ókurteislega"]
+gróflega
+ókurteislega

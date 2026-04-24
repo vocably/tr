@@ -1,1 +1,2 @@
-["tarpeeksi","riittävästi"]
+tarpeeksi
+riittävästi

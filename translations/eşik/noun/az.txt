@@ -1,1 +1,3 @@
-["eşik","astana","qapı kandarı"]
+eşik
+astana
+qapı kandarı

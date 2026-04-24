@@ -1,1 +1,2 @@
-["neo-dheònach","gun iarrtas"]
+neo-dheònach
+gun iarrtas

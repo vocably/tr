@@ -1,1 +1,2 @@
-["fahamarinana","hitsiny"]
+fahamarinana
+hitsiny

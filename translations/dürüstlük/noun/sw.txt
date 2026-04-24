@@ -1,1 +1,2 @@
-["uaminifu","ukweli"]
+uaminifu
+ukweli

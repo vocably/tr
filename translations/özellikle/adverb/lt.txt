@@ -1,1 +1,3 @@
-["ypač","visų pirma","būtent"]
+ypač
+visų pirma
+būtent

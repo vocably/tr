@@ -1,1 +1,2 @@
-["varovainen","pidättyväinen"]
+varovainen
+pidättyväinen

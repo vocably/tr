@@ -1,1 +1,2 @@
-["alaia","pozgarria"]
+alaia
+pozgarria

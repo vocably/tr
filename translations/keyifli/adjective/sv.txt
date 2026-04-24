@@ -1,1 +1,2 @@
-["glad","trevlig"]
+glad
+trevlig

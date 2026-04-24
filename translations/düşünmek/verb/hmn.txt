@@ -1,1 +1,3 @@
-["xav","xav txog","tshua"]
+xav
+xav txog
+tshua

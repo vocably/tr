@@ -1,1 +1,2 @@
-["tempérament","humeur"]
+tempérament
+humeur

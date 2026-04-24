@@ -1,1 +1,3 @@
-["ibalulekile","exabisekileyo","ephawulekayo"]
+ibalulekile
+exabisekileyo
+ephawulekayo

@@ -1,1 +1,2 @@
-["haddaan","isla markiiba"]
+haddaan
+isla markiiba

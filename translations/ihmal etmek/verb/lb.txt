@@ -1,1 +1,2 @@
-["vernaachläss","vernoléissegen"]
+vernaachläss
+vernoléissegen

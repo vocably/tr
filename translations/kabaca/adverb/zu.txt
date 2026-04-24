@@ -1,1 +1,2 @@
-["ngokungafanele","cishe"]
+ngokungafanele
+cishe

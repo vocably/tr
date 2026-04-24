@@ -1,1 +1,3 @@
-["zatwierdzać","potwierdzać","legalizować"]
+zatwierdzać
+potwierdzać
+legalizować

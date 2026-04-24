@@ -1,1 +1,3 @@
-["mikilvægur","markverður","athyglisverður"]
+mikilvægur
+markverður
+athyglisverður

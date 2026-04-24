@@ -1,1 +1,2 @@
-["fullvissa","telja á"]
+fullvissa
+telja á

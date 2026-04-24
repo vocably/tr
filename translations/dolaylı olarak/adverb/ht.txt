@@ -1,1 +1,2 @@
-["endirekteman","pa mwayen"]
+endirekteman
+pa mwayen

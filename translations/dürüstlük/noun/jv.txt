@@ -1,1 +1,2 @@
-["kejujuran","kaleresan"]
+kejujuran
+kaleresan

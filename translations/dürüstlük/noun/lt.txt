@@ -1,1 +1,2 @@
-["sąžiningumas","doras"]
+sąžiningumas
+doras

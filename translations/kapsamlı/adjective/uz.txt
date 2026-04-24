@@ -1,1 +1,2 @@
-["keng qamrovli","atroflicha"]
+keng qamrovli
+atroflicha

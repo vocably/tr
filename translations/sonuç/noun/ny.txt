@@ -1,1 +1,3 @@
-["zotsatira","chifukwa","mapeto"]
+zotsatira
+chifukwa
+mapeto

@@ -1,1 +1,3 @@
-["umbral","dintel","divisoria"]
+umbral
+dintel
+divisoria

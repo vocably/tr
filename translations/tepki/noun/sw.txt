@@ -1,1 +1,2 @@
-["mwitikio","tabia"]
+mwitikio
+tabia

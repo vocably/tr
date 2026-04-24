@@ -1,1 +1,2 @@
-["ora langsung","kanthi ora langsung"]
+ora langsung
+kanthi ora langsung

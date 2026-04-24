@@ -1,1 +1,3 @@
-["aprobi","konfirmi","validigi"]
+aprobi
+konfirmi
+validigi

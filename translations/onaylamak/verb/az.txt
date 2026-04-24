@@ -1,1 +1,3 @@
-["təsdiqləmək","doğrultmaq","qəbul etmək"]
+təsdiqləmək
+doğrultmaq
+qəbul etmək

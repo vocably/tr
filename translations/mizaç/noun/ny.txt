@@ -1,1 +1,2 @@
-["makhalidwe","thupi"]
+makhalidwe
+thupi

@@ -1,1 +1,2 @@
-["jidded","iddedika"]
+jidded
+iddedika

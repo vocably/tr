@@ -1,1 +1,2 @@
-["Ku adkaysi","Addeegsan"]
+Ku adkaysi
+Addeegsan

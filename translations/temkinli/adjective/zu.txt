@@ -1,1 +1,2 @@
-["qaphela","hlakanipha"]
+qaphela
+hlakanipha

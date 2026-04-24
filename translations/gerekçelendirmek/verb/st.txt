@@ -1,1 +1,2 @@
-["ho fana ka mabaka","ho lokafatsa"]
+ho fana ka mabaka
+ho lokafatsa

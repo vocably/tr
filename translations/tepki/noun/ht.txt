@@ -1,1 +1,2 @@
-["reyaksyon","repons"]
+reyaksyon
+repons

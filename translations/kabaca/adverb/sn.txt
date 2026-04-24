@@ -1,1 +1,2 @@
-["zvisina maturo","zvisina tsika"]
+zvisina maturo
+zvisina tsika

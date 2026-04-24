@@ -1,1 +1,3 @@
-["bosaga","eşik","geriş"]
+bosaga
+eşik
+geriş

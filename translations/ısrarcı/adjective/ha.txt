@@ -1,1 +1,2 @@
-["mai taurin kai","mai dagewa"]
+mai taurin kai
+mai dagewa

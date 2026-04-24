@@ -1,1 +1,2 @@
-["ukuphendula","isimo"]
+ukuphendula
+isimo

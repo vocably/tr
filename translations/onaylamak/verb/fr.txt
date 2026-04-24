@@ -1,1 +1,3 @@
-["approuver","confirmer","ratifier"]
+approuver
+confirmer
+ratifier

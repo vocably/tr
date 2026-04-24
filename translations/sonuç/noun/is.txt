@@ -1,1 +1,3 @@
-["árangur","niðurstaða","afleiðing"]
+árangur
+niðurstaða
+afleiðing

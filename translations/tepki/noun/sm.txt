@@ -1,1 +1,2 @@
-["tali","faiga"]
+tali
+faiga

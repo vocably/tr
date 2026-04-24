@@ -1,1 +1,2 @@
-["immediately","at once"]
+immediately
+at once

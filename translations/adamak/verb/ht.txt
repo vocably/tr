@@ -1,1 +1,2 @@
-["voye","konsakre"]
+voye
+konsakre

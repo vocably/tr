@@ -1,1 +1,3 @@
-["vokany","fiafarana","tsoa-kevitra"]
+vokany
+fiafarana
+tsoa-kevitra

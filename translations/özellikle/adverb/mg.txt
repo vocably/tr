@@ -1,1 +1,3 @@
-["indrindra","manokana","indrindra indrindra"]
+indrindra
+manokana
+indrindra indrindra

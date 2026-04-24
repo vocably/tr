@@ -1,1 +1,3 @@
-["Ergebnis","Folge","Resultat"]
+Ergebnis
+Folge
+Resultat

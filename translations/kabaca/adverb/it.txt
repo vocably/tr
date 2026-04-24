@@ -1,1 +1,2 @@
-["rudemente","approssimativamente"]
+rudemente
+approssimativamente

@@ -1,1 +1,2 @@
-["desganado","apático"]
+desganado
+apático

@@ -1,1 +1,3 @@
-["Schwell","Träpel","Waasserscheed"]
+Schwell
+Träpel
+Waasserscheed

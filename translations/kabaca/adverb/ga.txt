@@ -1,1 +1,2 @@
-["go neamhbhéasach","go garbh"]
+go neamhbhéasach
+go garbh

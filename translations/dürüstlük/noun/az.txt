@@ -1,1 +1,2 @@
-["dürüstlük","doğruluq"]
+dürüstlük
+doğruluq

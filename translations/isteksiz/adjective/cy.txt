@@ -1,1 +1,2 @@
-["amharus","dideimlad"]
+amharus
+dideimlad

@@ -1,1 +1,2 @@
-["omtrent","uhøflig"]
+omtrent
+uhøflig

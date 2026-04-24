@@ -1,1 +1,3 @@
-["mafaufau","manatu","popole"]
+mafaufau
+manatu
+popole

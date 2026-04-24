@@ -1,1 +1,2 @@
-["straks","umiddelbart"]
+straks
+umiddelbart

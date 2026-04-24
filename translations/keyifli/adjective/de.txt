@@ -1,1 +1,2 @@
-["fröhlich","vergnügt"]
+fröhlich
+vergnügt

@@ -1,1 +1,2 @@
-["ishandurmaq","qayil qilmaq"]
+ishandurmaq
+qayil qilmaq

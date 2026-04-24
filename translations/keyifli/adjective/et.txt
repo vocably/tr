@@ -1,1 +1,2 @@
-["rõõmus","lõbus"]
+rõõmus
+lõbus

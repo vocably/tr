@@ -1,1 +1,3 @@
-["īpaši","sevišķi","galvenokārt"]
+īpaši
+sevišķi
+galvenokārt

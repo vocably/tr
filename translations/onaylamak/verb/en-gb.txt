@@ -1,1 +1,3 @@
-["to approve","to confirm","to ratify"]
+to approve
+to confirm
+to ratify

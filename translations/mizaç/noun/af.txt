@@ -1,1 +1,2 @@
-["geaardheid","gestel"]
+geaardheid
+gestel

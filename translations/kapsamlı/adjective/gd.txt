@@ -1,1 +1,2 @@
-["farsaing","cuimsich"]
+farsaing
+cuimsich

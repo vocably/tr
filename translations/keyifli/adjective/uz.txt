@@ -1,1 +1,2 @@
-["xursand","maroqli"]
+xursand
+maroqli

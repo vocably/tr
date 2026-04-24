@@ -1,1 +1,2 @@
-["wegah","malas"]
+wegah
+malas

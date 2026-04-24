@@ -1,1 +1,2 @@
-["durability","resistance"]
+durability
+resistance

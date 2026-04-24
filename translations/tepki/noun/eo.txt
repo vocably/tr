@@ -1,1 +1,2 @@
-["reago","reakcio"]
+reago
+reakcio

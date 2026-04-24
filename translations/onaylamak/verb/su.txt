@@ -1,1 +1,3 @@
-["ngesahkeun","nyatujuan","ngabenerkeun"]
+ngesahkeun
+nyatujuan
+ngabenerkeun

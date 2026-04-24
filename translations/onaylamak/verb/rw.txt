@@ -1,1 +1,3 @@
-["kwemeza","gushimangira","kwemera"]
+kwemeza
+gushimangira
+kwemera

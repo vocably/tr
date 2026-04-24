@@ -1,1 +1,2 @@
-["daya","kekiyatan"]
+daya
+kekiyatan

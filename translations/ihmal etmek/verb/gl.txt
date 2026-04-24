@@ -1,1 +1,2 @@
-["desatender","neglixir"]
+desatender
+neglixir

@@ -1,1 +1,2 @@
-["bejn wieħed u ieħor","bl-addoċċ"]
+bejn wieħed u ieħor
+bl-addoċċ

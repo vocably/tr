@@ -1,1 +1,2 @@
-["haluton","vastahakoinen"]
+haluton
+vastahakoinen

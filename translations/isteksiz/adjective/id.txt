@@ -1,1 +1,2 @@
-["enggan","malas"]
+enggan
+malas

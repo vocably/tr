@@ -1,1 +1,3 @@
-["kunyanya","zvikuru","chaizvo"]
+kunyanya
+zvikuru
+chaizvo

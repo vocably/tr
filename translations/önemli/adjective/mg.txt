@@ -1,1 +1,3 @@
-["zava-dehibe","manan-danja","lehibe"]
+zava-dehibe
+manan-danja
+lehibe

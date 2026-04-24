@@ -1,1 +1,2 @@
-["seneng","nyenengake"]
+seneng
+nyenengake

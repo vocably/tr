@@ -1,1 +1,3 @@
-["réfléchir","penser","s'inquiéter"]
+réfléchir
+penser
+s'inquiéter

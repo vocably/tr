@@ -1,1 +1,3 @@
-["o'ylamoq","fikrlamoq","xavotirlanmoq"]
+o'ylamoq
+fikrlamoq
+xavotirlanmoq

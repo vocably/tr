@@ -1,1 +1,2 @@
-["watek","kaayaan"]
+watek
+kaayaan

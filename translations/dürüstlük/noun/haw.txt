@@ -1,1 +1,2 @@
-["ʻoiaʻiʻo","pono"]
+ʻoiaʻiʻo
+pono

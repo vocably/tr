@@ -1,1 +1,2 @@
-["veseo","ugodan"]
+veseo
+ugodan

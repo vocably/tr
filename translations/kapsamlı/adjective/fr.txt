@@ -1,1 +1,2 @@
-["complet","vaste"]
+complet
+vaste

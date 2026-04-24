@@ -1,1 +1,2 @@
-["wokondwa","chosangalatsa"]
+wokondwa
+chosangalatsa

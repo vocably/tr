@@ -1,1 +1,2 @@
-["bêdil","bêkeif"]
+bêdil
+bêkeif

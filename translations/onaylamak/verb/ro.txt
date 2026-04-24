@@ -1,1 +1,3 @@
-["a aproba","a confirma","a ratifica"]
+a aproba
+a confirma
+a ratifica

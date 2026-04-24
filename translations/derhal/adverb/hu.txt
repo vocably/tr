@@ -1,1 +1,2 @@
-["azonnal","rögtön"]
+azonnal
+rögtön

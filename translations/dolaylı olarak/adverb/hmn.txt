@@ -1,1 +1,2 @@
-["tsis ncaj","ntws"]
+tsis ncaj
+ntws

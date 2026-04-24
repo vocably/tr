@@ -1,1 +1,2 @@
-["kutosha","ya kutosha"]
+kutosha
+ya kutosha

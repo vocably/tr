@@ -1,1 +1,2 @@
-["varkár","gætin"]
+varkár
+gætin

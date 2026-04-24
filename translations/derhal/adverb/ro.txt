@@ -1,1 +1,2 @@
-["imediat","de îndată"]
+imediat
+de îndată

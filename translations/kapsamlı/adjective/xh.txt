@@ -1,1 +1,2 @@
-["banzi","ubanzi"]
+banzi
+ubanzi

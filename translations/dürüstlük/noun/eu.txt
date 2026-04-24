@@ -1,1 +1,2 @@
-["zintzotasun","leialtasun"]
+zintzotasun
+leialtasun

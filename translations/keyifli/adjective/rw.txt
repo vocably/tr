@@ -1,1 +1,2 @@
-["bishimye","ibyishimo"]
+bishimye
+ibyishimo

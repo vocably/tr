@@ -1,1 +1,2 @@
-["aberthu","cyflwyno"]
+aberthu
+cyflwyno

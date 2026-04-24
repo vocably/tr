@@ -1,1 +1,2 @@
-["insisterande","envis"]
+insisterande
+envis

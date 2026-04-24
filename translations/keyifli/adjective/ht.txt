@@ -1,1 +1,2 @@
-["kontan","amizan"]
+kontan
+amizan

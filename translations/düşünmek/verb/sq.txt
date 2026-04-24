@@ -1,1 +1,3 @@
-["mendoj","konsideroj","shqetësohem"]
+mendoj
+konsideroj
+shqetësohem

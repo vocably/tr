@@ -1,1 +1,2 @@
-["mamello","ho tšoarella"]
+mamello
+ho tšoarella

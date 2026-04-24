@@ -1,1 +1,2 @@
-["būdas","nuotaika"]
+būdas
+nuotaika

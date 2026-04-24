@@ -1,1 +1,3 @@
-["aprobar","confirmar","ratificar"]
+aprobar
+confirmar
+ratificar

@@ -1,1 +1,3 @@
-["viktig","betydande","framstående"]
+viktig
+betydande
+framstående

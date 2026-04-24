@@ -1,1 +1,3 @@
-["patvirtinti","pritarti","sankcionuoti"]
+patvirtinti
+pritarti
+sankcionuoti

@@ -1,1 +1,3 @@
-["natija","xulosa","yakun"]
+natija
+xulosa
+yakun

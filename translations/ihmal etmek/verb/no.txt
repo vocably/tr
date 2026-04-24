@@ -1,1 +1,2 @@
-["forsømme","negliere"]
+forsømme
+negliere

@@ -1,1 +1,2 @@
-["davamlılıq","dayanıqlılıq"]
+davamlılıq
+dayanıqlılıq

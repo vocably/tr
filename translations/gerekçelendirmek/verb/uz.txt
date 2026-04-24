@@ -1,1 +1,2 @@
-["asoslash","oqlash"]
+asoslash
+oqlash

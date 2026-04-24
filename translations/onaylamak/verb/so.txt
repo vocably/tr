@@ -1,1 +1,3 @@
-["ansixin","ogeysii","saxiix"]
+ansixin
+ogeysii
+saxiix

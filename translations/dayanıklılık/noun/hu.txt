@@ -1,1 +1,2 @@
-["ellenállás","tartósság"]
+ellenállás
+tartósság

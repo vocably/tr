@@ -1,1 +1,2 @@
-["skapsmuni","geðslag"]
+skapsmuni
+geðslag

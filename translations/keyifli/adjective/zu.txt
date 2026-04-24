@@ -1,1 +1,2 @@
-["ujabule","mnandi"]
+ujabule
+mnandi

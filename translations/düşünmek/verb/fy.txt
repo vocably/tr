@@ -1,1 +1,3 @@
-["neitinke","tinke","piekerje"]
+neitinke
+tinke
+piekerje

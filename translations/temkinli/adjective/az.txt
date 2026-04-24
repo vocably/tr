@@ -1,1 +1,2 @@
-["ehtiyatlı","tədbirli"]
+ehtiyatlı
+tədbirli

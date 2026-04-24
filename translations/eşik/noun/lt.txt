@@ -1,1 +1,3 @@
-["slenkstis","riba","perėja"]
+slenkstis
+riba
+perėja

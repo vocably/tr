@@ -1,1 +1,3 @@
-["nyetujoni","ngesahake","mbenerake"]
+nyetujoni
+ngesahake
+mbenerake

@@ -1,1 +1,3 @@
-["razmišljati","misliti","preudarjati"]
+razmišljati
+misliti
+preudarjati

@@ -1,1 +1,2 @@
-["vesel","plăcut"]
+vesel
+plăcut

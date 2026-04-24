@@ -1,1 +1,2 @@
-["reagim","reaksion"]
+reagim
+reaksion

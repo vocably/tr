@@ -1,1 +1,2 @@
-["rehellisyys","oikeudenmukaisuus"]
+rehellisyys
+oikeudenmukaisuus

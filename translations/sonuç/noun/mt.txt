@@ -1,1 +1,3 @@
-["riżultat","konsegwenza","eżitu"]
+riżultat
+konsegwenza
+eżitu

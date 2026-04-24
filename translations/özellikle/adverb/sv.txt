@@ -1,1 +1,3 @@
-["särskilt","speciellt","i synnerhet"]
+särskilt
+speciellt
+i synnerhet

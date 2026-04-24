@@ -1,1 +1,2 @@
-["fìreanachadh","dearbhadh"]
+fìreanachadh
+dearbhadh

@@ -1,1 +1,2 @@
-["adanmaq","həsr etmək"]
+adanmaq
+həsr etmək

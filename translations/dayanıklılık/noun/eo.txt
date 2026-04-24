@@ -1,1 +1,2 @@
-["rezisto","fortikeco"]
+rezisto
+fortikeco

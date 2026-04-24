@@ -1,1 +1,2 @@
-["amin'ny fomba ankolaka","amin'ny fomba tsy mivantana"]
+amin'ny fomba ankolaka
+amin'ny fomba tsy mivantana

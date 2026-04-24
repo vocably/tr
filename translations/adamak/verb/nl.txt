@@ -1,1 +1,2 @@
-["wijden","toewijden"]
+wijden
+toewijden

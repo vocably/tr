@@ -1,1 +1,3 @@
-["rezultatas","išvada","pasekmė"]
+rezultatas
+išvada
+pasekmė

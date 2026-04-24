@@ -1,1 +1,3 @@
-["belangrik","waardevol","aansienlik"]
+belangrik
+waardevol
+aansienlik

@@ -1,1 +1,2 @@
-["roughly","rudely"]
+roughly
+rudely

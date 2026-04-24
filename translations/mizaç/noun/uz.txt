@@ -1,1 +1,2 @@
-["fe'l-atvor","tabiat"]
+fe'l-atvor
+tabiat

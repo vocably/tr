@@ -1,1 +1,2 @@
-["qaysar","o'jar"]
+qaysar
+o'jar

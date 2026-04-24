@@ -1,1 +1,2 @@
-["elég","elegendő"]
+elég
+elegendő

@@ -1,1 +1,2 @@
-["reaksi","tanggepan"]
+reaksi
+tanggepan

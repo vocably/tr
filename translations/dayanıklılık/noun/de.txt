@@ -1,1 +1,2 @@
-["Widerstandsfähigkeit","Haltbarkeit"]
+Widerstandsfähigkeit
+Haltbarkeit

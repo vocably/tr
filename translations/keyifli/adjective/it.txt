@@ -1,1 +1,2 @@
-["allegro","piacevole"]
+allegro
+piacevole

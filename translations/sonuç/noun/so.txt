@@ -1,1 +1,3 @@
-["Natiijo","Gabagabo","Saamayn"]
+Natiijo
+Gabagabo
+Saamayn

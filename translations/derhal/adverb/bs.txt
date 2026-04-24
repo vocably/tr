@@ -1,1 +1,2 @@
-["odmah","smjesta"]
+odmah
+smjesta

@@ -1,1 +1,2 @@
-["netiesiogiai","aplinkkeliais"]
+netiesiogiai
+aplinkkeliais

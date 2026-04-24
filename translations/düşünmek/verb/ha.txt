@@ -1,1 +1,3 @@
-["yi tunani","yi zaton","damu"]
+yi tunani
+yi zaton
+damu

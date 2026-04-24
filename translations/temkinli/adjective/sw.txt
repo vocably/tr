@@ -1,1 +1,2 @@
-["mwangalifu","makini"]
+mwangalifu
+makini

@@ -1,1 +1,3 @@
-["terutama","khususnya","istimewa"]
+terutama
+khususnya
+istimewa

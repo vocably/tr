@@ -1,1 +1,3 @@
-["kuthibitisha","kukubali","kuridhia"]
+kuthibitisha
+kukubali
+kuridhia

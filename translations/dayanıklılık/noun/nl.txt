@@ -1,1 +1,2 @@
-["weerstand","duurzaamheid"]
+weerstand
+duurzaamheid

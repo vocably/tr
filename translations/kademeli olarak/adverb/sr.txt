@@ -1,1 +1,2 @@
-["postepeno","fazno"]
+postepeno
+fazno

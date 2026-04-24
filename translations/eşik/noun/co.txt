@@ -1,1 +1,3 @@
-["sogliu","limitu","spartiacque"]
+sogliu
+limitu
+spartiacque

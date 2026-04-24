@@ -1,1 +1,2 @@
-["kwa ukali","kwa takriban"]
+kwa ukali
+kwa takriban

@@ -1,1 +1,2 @@
-["hrubě","zhruba"]
+hrubě
+zhruba

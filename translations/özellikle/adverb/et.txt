@@ -1,1 +1,3 @@
-["eriti","eelkõige","iseäranis"]
+eriti
+eelkõige
+iseäranis

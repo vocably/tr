@@ -1,1 +1,2 @@
-["pravigi","motivigi"]
+pravigi
+motivigi

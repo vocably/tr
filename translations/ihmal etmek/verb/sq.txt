@@ -1,1 +1,2 @@
-["neglijo","lë pas dore"]
+neglijo
+lë pas dore

@@ -1,1 +1,2 @@
-["digon","digonol"]
+digon
+digonol

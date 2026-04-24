@@ -1,1 +1,2 @@
-["kulongosola","kufotokoza"]
+kulongosola
+kufotokoza

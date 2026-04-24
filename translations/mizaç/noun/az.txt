@@ -1,1 +1,2 @@
-["xasiyyət","mizaç"]
+xasiyyət
+mizaç

@@ -1,1 +1,3 @@
-["hugsa","íhuga","hafa áhyggjur af"]
+hugsa
+íhuga
+hafa áhyggjur af

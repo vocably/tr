@@ -1,1 +1,3 @@
-["wichtich","fan belang","achtber"]
+wichtich
+fan belang
+achtber

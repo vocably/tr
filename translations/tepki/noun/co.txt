@@ -1,1 +1,2 @@
-["reazzione","risposta"]
+reazzione
+risposta

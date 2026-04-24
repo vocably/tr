@@ -1,1 +1,3 @@
-["kufikiri","kutafakari","kuhangaika"]
+kufikiri
+kutafakari
+kuhangaika

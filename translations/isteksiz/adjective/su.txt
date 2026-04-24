@@ -1,1 +1,2 @@
-["horéam","teu boga kahayang"]
+horéam
+teu boga kahayang

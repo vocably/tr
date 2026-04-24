@@ -1,1 +1,2 @@
-["bagyşlamak","adamak"]
+bagyşlamak
+adamak

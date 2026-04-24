@@ -1,1 +1,3 @@
-["düşünmək","fikirləşmək","qayğılanmaq"]
+düşünmək
+fikirləşmək
+qayğılanmaq

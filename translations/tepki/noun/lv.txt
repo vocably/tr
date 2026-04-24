@@ -1,1 +1,2 @@
-["reakcija","atbildes reakcija"]
+reakcija
+atbildes reakcija

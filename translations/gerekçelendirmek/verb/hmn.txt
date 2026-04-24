@@ -1,1 +1,2 @@
-["ua kom muaj laj thawj","ua kom raug cai"]
+ua kom muaj laj thawj
+ua kom raug cai

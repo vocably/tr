@@ -1,1 +1,2 @@
-["Éierlechkeet","Redlechkeet"]
+Éierlechkeet
+Redlechkeet

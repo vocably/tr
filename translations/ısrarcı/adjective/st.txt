@@ -1,1 +1,2 @@
-["ea-tiisetsang","ea-phehellang"]
+ea-tiisetsang
+ea-phehellang

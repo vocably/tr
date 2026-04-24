@@ -1,1 +1,2 @@
-["tik apre tik","pa etap"]
+tik apre tik
+pa etap

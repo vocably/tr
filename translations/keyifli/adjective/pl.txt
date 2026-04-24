@@ -1,1 +1,2 @@
-["wesoły","przyjemny"]
+wesoły
+przyjemny

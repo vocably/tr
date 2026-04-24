@@ -1,1 +1,2 @@
-["katapatan","sinseridad"]
+katapatan
+sinseridad

@@ -1,1 +1,2 @@
-["ensistan","pèsistan"]
+ensistan
+pèsistan

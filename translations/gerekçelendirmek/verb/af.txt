@@ -1,1 +1,2 @@
-["regverdig","motiveer"]
+regverdig
+motiveer

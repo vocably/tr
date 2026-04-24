@@ -1,1 +1,3 @@
-["vigtig","betydelig","væsentlig"]
+vigtig
+betydelig
+væsentlig

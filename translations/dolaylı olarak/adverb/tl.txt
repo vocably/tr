@@ -1,1 +1,2 @@
-["hindi direkta","sa paraang hindi tuwiran"]
+hindi direkta
+sa paraang hindi tuwiran

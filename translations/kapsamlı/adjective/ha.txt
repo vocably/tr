@@ -1,1 +1,2 @@
-["ciki har da","mai yawa"]
+ciki har da
+mai yawa

@@ -1,1 +1,3 @@
-["potrditi","odobriti","potrjevati"]
+potrditi
+odobriti
+potrjevati

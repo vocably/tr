@@ -1,1 +1,2 @@
-["čestnosť","úprimnosť"]
+čestnosť
+úprimnosť

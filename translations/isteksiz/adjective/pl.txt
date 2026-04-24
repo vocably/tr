@@ -1,1 +1,2 @@
-["niechętny","nie mający apetytu"]
+niechętny
+nie mający apetytu

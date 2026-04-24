@@ -1,1 +1,2 @@
-["kuhalalisha","kuthibitisha"]
+kuhalalisha
+kuthibitisha

@@ -1,1 +1,2 @@
-["kuchita","yankho"]
+kuchita
+yankho

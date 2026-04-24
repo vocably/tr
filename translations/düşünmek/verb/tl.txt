@@ -1,1 +1,3 @@
-["pag-isipan","isipin","alalahanin"]
+pag-isipan
+isipin
+alalahanin

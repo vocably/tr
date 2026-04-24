@@ -1,1 +1,3 @@
-["hyväksyä","vahvistaa","oikeuttaa"]
+hyväksyä
+vahvistaa
+oikeuttaa

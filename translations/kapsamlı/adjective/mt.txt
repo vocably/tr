@@ -1,1 +1,2 @@
-["komprensiv","wiesa'"]
+komprensiv
+wiesa'

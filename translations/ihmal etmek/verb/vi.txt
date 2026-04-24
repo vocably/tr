@@ -1,1 +1,2 @@
-["bỏ bê","xao nhãng"]
+bỏ bê
+xao nhãng

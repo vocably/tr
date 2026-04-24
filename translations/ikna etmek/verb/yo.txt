@@ -1,1 +1,2 @@
-["láti yí","láti mú"]
+láti yí
+láti mú

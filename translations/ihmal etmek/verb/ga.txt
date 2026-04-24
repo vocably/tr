@@ -1,1 +1,2 @@
-["failligh","dearmad a dhéanamh ar"]
+failligh
+dearmad a dhéanamh ar

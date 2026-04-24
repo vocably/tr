@@ -1,1 +1,2 @@
-["bila hiari","bila hamu"]
+bila hiari
+bila hamu

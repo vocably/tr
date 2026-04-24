@@ -1,1 +1,3 @@
-["mõtlema","arutlema","muretsema"]
+mõtlema
+arutlema
+muretsema

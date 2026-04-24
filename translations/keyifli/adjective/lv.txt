@@ -1,1 +1,2 @@
-["jautrs","patīkams"]
+jautrs
+patīkams

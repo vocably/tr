@@ -1,1 +1,3 @@
-["ambang","sempadan","rabung"]
+ambang
+sempadan
+rabung

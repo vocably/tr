@@ -1,1 +1,2 @@
-["rawaka","nui"]
+rawaka
+nui

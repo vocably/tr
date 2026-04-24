@@ -1,1 +1,2 @@
-["dolayı","bilvasitə"]
+dolayı
+bilvasitə

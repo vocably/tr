@@ -1,1 +1,2 @@
-["reaksiya","təpki"]
+reaksiya
+təpki

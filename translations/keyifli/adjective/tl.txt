@@ -1,1 +1,2 @@
-["masaya","kasiya-siya"]
+masaya
+kasiya-siya

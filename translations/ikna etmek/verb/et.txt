@@ -1,1 +1,2 @@
-["veenda","ära rääkima"]
+veenda
+ära rääkima

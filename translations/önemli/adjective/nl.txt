@@ -1,1 +1,3 @@
-["belangrijk","aanzienlijk","waardevol"]
+belangrijk
+aanzienlijk
+waardevol

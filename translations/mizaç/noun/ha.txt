@@ -1,1 +1,2 @@
-["hali","yanayi"]
+hali
+yanayi

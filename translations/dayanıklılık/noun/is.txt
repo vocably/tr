@@ -1,1 +1,2 @@
-["þol","ending"]
+þol
+ending

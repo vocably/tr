@@ -1,1 +1,3 @@
-["rawa","ake","tonu"]
+rawa
+ake
+tonu

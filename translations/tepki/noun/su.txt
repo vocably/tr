@@ -1,1 +1,2 @@
-["réaksi","sikep"]
+réaksi
+sikep

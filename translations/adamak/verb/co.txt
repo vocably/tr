@@ -1,1 +1,2 @@
-["vutà","dedicà"]
+vutà
+dedicà

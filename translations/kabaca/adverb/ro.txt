@@ -1,1 +1,2 @@
-["grosolan","aproximativ"]
+grosolan
+aproximativ

@@ -1,1 +1,2 @@
-["malosi","tumau"]
+malosi
+tumau

@@ -1,1 +1,2 @@
-["insisterende","vedholdende"]
+insisterende
+vedholdende

@@ -1,1 +1,2 @@
-["iloinen","hauska"]
+iloinen
+hauska

@@ -1,1 +1,2 @@
-["falifaly","mahafinaritra"]
+falifaly
+mahafinaritra

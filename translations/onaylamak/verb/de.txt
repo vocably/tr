@@ -1,1 +1,3 @@
-["bestätigen","genehmigen","billigen"]
+bestätigen
+genehmigen
+billigen

@@ -1,1 +1,3 @@
-["bohlokoa","ba bohlokoa","e bohlokoa"]
+bohlokoa
+ba bohlokoa
+e bohlokoa

@@ -1,1 +1,2 @@
-["kontra r-rieda","bla aptit"]
+kontra r-rieda
+bla aptit

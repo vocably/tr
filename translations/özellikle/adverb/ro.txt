@@ -1,1 +1,3 @@
-["mai ales","în special","îndeosebi"]
+mai ales
+în special
+îndeosebi

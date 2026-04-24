@@ -1,1 +1,2 @@
-["sásta","taitneamhach"]
+sásta
+taitneamhach

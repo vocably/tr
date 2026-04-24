@@ -1,1 +1,2 @@
-["mālie","kūpae"]
+mālie
+kūpae

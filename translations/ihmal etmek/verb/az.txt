@@ -1,1 +1,2 @@
-["ihmal etmək","saymamaq"]
+ihmal etmək
+saymamaq

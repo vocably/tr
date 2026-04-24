@@ -1,1 +1,2 @@
-["közvetve","indirekt"]
+közvetve
+indirekt

@@ -1,1 +1,2 @@
-["óbeint","óléttilega"]
+óbeint
+óléttilega

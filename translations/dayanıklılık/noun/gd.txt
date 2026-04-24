@@ -1,1 +1,2 @@
-["seasmhachd","strì"]
+seasmhachd
+strì

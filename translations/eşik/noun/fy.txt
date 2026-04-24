@@ -1,1 +1,3 @@
-["drompel","grins","wetterkearing"]
+drompel
+grins
+wetterkearing

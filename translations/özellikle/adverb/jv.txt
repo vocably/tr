@@ -1,1 +1,3 @@
-["utamane","mligine","khususe"]
+utamane
+mligine
+khususe

@@ -1,1 +1,2 @@
-["reakcija","atsakas"]
+reakcija
+atsakas

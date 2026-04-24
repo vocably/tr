@@ -1,1 +1,2 @@
-["sa labese","ya sa rateheng"]
+sa labese
+ya sa rateheng

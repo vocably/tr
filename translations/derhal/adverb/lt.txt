@@ -1,1 +1,2 @@
-["nedelsiant","tuojau"]
+nedelsiant
+tuojau

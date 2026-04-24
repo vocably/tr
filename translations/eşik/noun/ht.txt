@@ -1,1 +1,3 @@
-["papòt","limit","pas"]
+papòt
+limit
+pas

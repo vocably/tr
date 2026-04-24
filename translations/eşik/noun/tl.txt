@@ -1,1 +1,3 @@
-["paso","hangganan","gulod"]
+paso
+hangganan
+gulod

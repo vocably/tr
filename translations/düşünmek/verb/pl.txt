@@ -1,1 +1,3 @@
-["myśleć","rozważać","zastanawiać się"]
+myśleć
+rozważać
+zastanawiać się

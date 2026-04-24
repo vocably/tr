@@ -1,1 +1,2 @@
-["reaksiyon","tugon"]
+reaksiyon
+tugon

@@ -1,1 +1,3 @@
-["go háirithe","go speisialta","thairis sin"]
+go háirithe
+go speisialta
+thairis sin

@@ -1,1 +1,3 @@
-["nachdenken","überlegen","denken"]
+nachdenken
+überlegen
+denken

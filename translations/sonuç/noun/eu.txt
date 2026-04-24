@@ -1,1 +1,3 @@
-["emaitza","ondorio","ebatzi"]
+emaitza
+ondorio
+ebatzi

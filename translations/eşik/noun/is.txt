@@ -1,1 +1,3 @@
-["þröskuldur","dyraumbúnaður","þverhryggur"]
+þröskuldur
+dyraumbúnaður
+þverhryggur

@@ -1,1 +1,2 @@
-["dearmad a dhèanamh air","neo-chùram a dhèanamh air"]
+dearmad a dhèanamh air
+neo-chùram a dhèanamh air

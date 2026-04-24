@@ -1,1 +1,2 @@
-["tërthorazi","indirekt"]
+tërthorazi
+indirekt

@@ -1,1 +1,2 @@
-["reacción","resposta"]
+reacción
+resposta

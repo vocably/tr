@@ -1,1 +1,2 @@
-["gu garbh","mu thuairmeas"]
+gu garbh
+mu thuairmeas

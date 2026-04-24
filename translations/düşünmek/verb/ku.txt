@@ -1,1 +1,3 @@
-["ramandin","bîr kirin","fikirîn"]
+ramandin
+bîr kirin
+fikirîn

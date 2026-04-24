@@ -1,1 +1,2 @@
-["temperamento","costituzione"]
+temperamento
+costituzione

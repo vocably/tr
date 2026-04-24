@@ -1,1 +1,3 @@
-["musamman","musamman ma","fiye da kowa"]
+musamman
+musamman ma
+fiye da kowa

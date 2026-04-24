@@ -1,1 +1,3 @@
-["limiar","soleira","ombro"]
+limiar
+soleira
+ombro

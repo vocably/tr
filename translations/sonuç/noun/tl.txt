@@ -1,1 +1,3 @@
-["resulta","kinalabasan","bunga"]
+resulta
+kinalabasan
+bunga

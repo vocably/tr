@@ -1,1 +1,2 @@
-["walang gana","ayaw"]
+walang gana
+ayaw

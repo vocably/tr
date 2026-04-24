@@ -1,1 +1,3 @@
-["svarīgs","nozīmīgs","ievērojams"]
+svarīgs
+nozīmīgs
+ievērojams

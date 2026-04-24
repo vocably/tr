@@ -1,1 +1,3 @@
-["seuil","pas","col"]
+seuil
+pas
+col

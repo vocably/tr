@@ -1,1 +1,2 @@
-["temperaments","raksturs"]
+temperaments
+raksturs

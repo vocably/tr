@@ -1,1 +1,2 @@
-["göni däl","egri"]
+göni däl
+egri

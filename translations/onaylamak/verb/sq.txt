@@ -1,1 +1,3 @@
-["miratuar","aprovuar","konfirmuar"]
+miratuar
+aprovuar
+konfirmuar

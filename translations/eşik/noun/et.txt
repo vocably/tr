@@ -1,1 +1,2 @@
-["künnis","lävi"]
+künnis
+lävi

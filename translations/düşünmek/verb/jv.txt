@@ -1,1 +1,3 @@
-["mikiri","nggagasi","ngelingi"]
+mikiri
+nggagasi
+ngelingi

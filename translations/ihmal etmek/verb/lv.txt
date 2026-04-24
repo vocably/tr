@@ -1,1 +1,2 @@
-["ignorēt","nevērpties"]
+ignorēt
+nevērpties

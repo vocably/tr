@@ -1,1 +1,3 @@
-["iʻuga","faʻaiʻuga","taunuʻuga"]
+iʻuga
+faʻaiʻuga
+taunuʻuga

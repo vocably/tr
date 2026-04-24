@@ -1,1 +1,3 @@
-["erityisesti","varsinkin","etenkin"]
+erityisesti
+varsinkin
+etenkin

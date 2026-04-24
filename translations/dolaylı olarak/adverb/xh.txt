@@ -1,1 +1,2 @@
-["ngokungangqalanga","ngegqudu"]
+ngokungangqalanga
+ngegqudu

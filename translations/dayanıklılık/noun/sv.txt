@@ -1,1 +1,2 @@
-["hållbarhet","motståndskraft"]
+hållbarhet
+motståndskraft

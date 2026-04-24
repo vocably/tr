@@ -1,1 +1,2 @@
-["phản ứng","thái độ"]
+phản ứng
+thái độ

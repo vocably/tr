@@ -1,1 +1,2 @@
-["Widderstand","Haltbarkeet"]
+Widderstand
+Haltbarkeet

@@ -1,1 +1,3 @@
-["mahalaga","importante","makabuluhan"]
+mahalaga
+importante
+makabuluhan

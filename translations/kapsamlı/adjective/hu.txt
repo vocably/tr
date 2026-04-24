@@ -1,1 +1,2 @@
-["átfogó","széles körű"]
+átfogó
+széles körű

@@ -1,1 +1,2 @@
-["cyfiawnhau","rhesymu"]
+cyfiawnhau
+rhesymu

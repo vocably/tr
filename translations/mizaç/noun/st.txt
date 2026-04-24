@@ -1,1 +1,2 @@
-["boitšisinyo","sebopeho"]
+boitšisinyo
+sebopeho

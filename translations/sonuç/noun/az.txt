@@ -1,1 +1,3 @@
-["nəticə","sonuc","yekun"]
+nəticə
+sonuc
+yekun

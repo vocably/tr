@@ -1,1 +1,2 @@
-["gwydnwch","parhad"]
+gwydnwch
+parhad

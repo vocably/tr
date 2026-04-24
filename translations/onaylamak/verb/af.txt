@@ -1,1 +1,3 @@
-["goedkeur","bevestig","bekragtig"]
+goedkeur
+bevestig
+bekragtig

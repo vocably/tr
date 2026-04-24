@@ -1,1 +1,2 @@
-["modstand","holdbarhed"]
+modstand
+holdbarhed

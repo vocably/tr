@@ -1,1 +1,3 @@
-["godkjenne","bekrefte","stadfeste"]
+godkjenne
+bekrefte
+stadfeste

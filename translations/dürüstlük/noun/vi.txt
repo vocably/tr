@@ -1,1 +1,2 @@
-["sự trung thực","tính trung thực"]
+sự trung thực
+tính trung thực

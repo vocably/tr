@@ -1,1 +1,2 @@
-["macántacht","ionracas"]
+macántacht
+ionracas

@@ -1,1 +1,2 @@
-["honesto","justeco"]
+honesto
+justeco

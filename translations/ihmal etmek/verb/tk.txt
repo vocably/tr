@@ -1,1 +1,2 @@
-["ähliýetsizlik etmek","üns bermezlik"]
+ähliýetsizlik etmek
+üns bermezlik

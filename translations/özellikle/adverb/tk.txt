@@ -1,1 +1,3 @@
-["esasanam","hususan","ayratyn-da"]
+esasanam
+hususan
+ayratyn-da

@@ -1,1 +1,2 @@
-["isa","gwargwado"]
+isa
+gwargwado

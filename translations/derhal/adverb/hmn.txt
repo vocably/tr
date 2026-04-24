@@ -1,1 +1,2 @@
-["tam sim ntawd","kiag tam ntawd"]
+tam sim ntawd
+kiag tam ntawd

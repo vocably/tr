@@ -1,1 +1,2 @@
-["mukova","chikumbaridzo"]
+mukova
+chikumbaridzo

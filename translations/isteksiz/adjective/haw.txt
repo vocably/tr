@@ -1,1 +1,2 @@
-["kolo","māluhiluhi"]
+kolo
+māluhiluhi

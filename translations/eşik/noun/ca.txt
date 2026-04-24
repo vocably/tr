@@ -1,1 +1,3 @@
-["llindar","pas","coll"]
+llindar
+pas
+coll

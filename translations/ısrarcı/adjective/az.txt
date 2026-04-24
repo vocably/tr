@@ -1,1 +1,2 @@
-["ısrarcı","təkidçi"]
+ısrarcı
+təkidçi

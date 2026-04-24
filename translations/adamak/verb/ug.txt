@@ -1,1 +1,2 @@
-["ataq atmaq","beqishlamaq"]
+ataq atmaq
+beqishlamaq

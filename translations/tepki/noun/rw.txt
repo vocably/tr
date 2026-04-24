@@ -1,1 +1,2 @@
-["igikorwa","imyifatire"]
+igikorwa
+imyifatire

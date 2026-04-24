@@ -1,1 +1,2 @@
-["ngati-ngati","waspada"]
+ngati-ngati
+waspada

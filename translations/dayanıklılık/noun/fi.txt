@@ -1,1 +1,2 @@
-["kestävyys","vastustuskyky"]
+kestävyys
+vastustuskyky

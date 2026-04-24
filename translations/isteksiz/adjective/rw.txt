@@ -1,1 +1,2 @@
-["kutagira ubushake","kutagira irari"]
+kutagira ubushake
+kutagira irari

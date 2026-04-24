@@ -1,1 +1,3 @@
-["ingororano","umusaruro","ikivuyemo"]
+ingororano
+umusaruro
+ikivuyemo

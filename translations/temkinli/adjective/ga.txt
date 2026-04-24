@@ -1,1 +1,2 @@
-["aireach","cúramach"]
+aireach
+cúramach

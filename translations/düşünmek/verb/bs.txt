@@ -1,1 +1,3 @@
-["misliti","razmišljati","brinuti"]
+misliti
+razmišljati
+brinuti

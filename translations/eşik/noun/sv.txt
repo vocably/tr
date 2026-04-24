@@ -1,1 +1,3 @@
-["tröskel","gräns","bergspass"]
+tröskel
+gräns
+bergspass

@@ -1,1 +1,3 @@
-["ingenzi","ihagije","ndende"]
+ingenzi
+ihagije
+ndende

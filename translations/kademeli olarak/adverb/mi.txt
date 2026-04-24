@@ -1,1 +1,2 @@
-["āhua","pōturi"]
+āhua
+pōturi

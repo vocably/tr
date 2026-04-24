@@ -1,1 +1,3 @@
-["jóváhagy","helyesel","elfogad"]
+jóváhagy
+helyesel
+elfogad

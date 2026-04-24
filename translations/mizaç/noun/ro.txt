@@ -1,1 +1,2 @@
-["fire","foc"]
+fire
+foc

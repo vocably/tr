@@ -1,1 +1,2 @@
-["áitigh","cuir ina luí"]
+áitigh
+cuir ina luí

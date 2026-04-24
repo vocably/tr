@@ -1,1 +1,3 @@
-["gondolkodni","átgondolni","aggódni"]
+gondolkodni
+átgondolni
+aggódni

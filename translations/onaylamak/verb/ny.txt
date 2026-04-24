@@ -1,1 +1,3 @@
-["kuvomereza","kutsimikizira","kuloledwa"]
+kuvomereza
+kutsimikizira
+kuloledwa

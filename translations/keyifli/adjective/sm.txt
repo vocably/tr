@@ -1,1 +1,2 @@
-["fiafia","malie"]
+fiafia
+malie

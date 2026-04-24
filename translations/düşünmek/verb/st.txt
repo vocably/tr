@@ -1,1 +1,3 @@
-["nahana","lekanyetsa","tšoenyeha"]
+nahana
+lekanyetsa
+tšoenyeha

@@ -1,1 +1,2 @@
-["malĝentile","proksimume"]
+malĝentile
+proksimume

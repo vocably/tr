@@ -1,1 +1,3 @@
-["rezultāts","iznākums","secinājums"]
+rezultāts
+iznākums
+secinājums

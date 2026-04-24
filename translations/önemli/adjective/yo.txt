@@ -1,1 +1,3 @@
-["pataki","iyele","titobi"]
+pataki
+iyele
+titobi

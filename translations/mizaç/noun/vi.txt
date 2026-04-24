@@ -1,1 +1,2 @@
-["tính khí","thể trạng"]
+tính khí
+thể trạng

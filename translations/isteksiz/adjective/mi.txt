@@ -1,1 +1,2 @@
-["mangere","hōhā"]
+mangere
+hōhā

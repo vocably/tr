@@ -1,1 +1,3 @@
-["galvoti","mąstyti","svarstyti"]
+galvoti
+mąstyti
+svarstyti

@@ -1,1 +1,2 @@
-["bastos","halos"]
+bastos
+halos

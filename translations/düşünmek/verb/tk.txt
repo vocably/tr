@@ -1,1 +1,3 @@
-["oýlamak","pikir etmek","aladalanmak"]
+oýlamak
+pikir etmek
+aladalanmak

@@ -1,1 +1,3 @@
-["aontaigh","daingnigh","formhuinigh"]
+aontaigh
+daingnigh
+formhuinigh

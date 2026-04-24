@@ -1,1 +1,2 @@
-["menyenangkan","gembira"]
+menyenangkan
+gembira

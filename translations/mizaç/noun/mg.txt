@@ -1,1 +1,2 @@
-["toetra","fahasalamana"]
+toetra
+fahasalamana

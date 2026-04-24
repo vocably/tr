@@ -1,1 +1,2 @@
-["enggan","tidak berselera"]
+enggan
+tidak berselera

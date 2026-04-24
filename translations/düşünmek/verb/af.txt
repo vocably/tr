@@ -1,1 +1,3 @@
-["oorweeg","dink","bekommer"]
+oorweeg
+dink
+bekommer

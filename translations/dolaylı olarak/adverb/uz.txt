@@ -1,1 +1,2 @@
-["bilvosita","egri"]
+bilvosita
+egri

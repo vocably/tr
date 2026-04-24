@@ -1,1 +1,3 @@
-["slieksnis","robeža","šķirtne"]
+slieksnis
+robeža
+šķirtne

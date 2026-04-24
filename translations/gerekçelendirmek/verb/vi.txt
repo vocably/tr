@@ -1,1 +1,2 @@
-["biện minh","hợp thức hóa"]
+biện minh
+hợp thức hóa

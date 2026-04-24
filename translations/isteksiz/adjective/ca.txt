@@ -1,1 +1,2 @@
-["desinteressat","sense ganes"]
+desinteressat
+sense ganes

@@ -1,1 +1,2 @@
-["kaudselt","indirektselt"]
+kaudselt
+indirektselt

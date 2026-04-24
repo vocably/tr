@@ -1,1 +1,2 @@
-["prou","suficientment"]
+prou
+suficientment

@@ -1,1 +1,3 @@
-["utamana","hususna","spesialna"]
+utamana
+hususna
+spesialna

@@ -1,1 +1,3 @@
-["próg","granica","dział wodny"]
+próg
+granica
+dział wodny

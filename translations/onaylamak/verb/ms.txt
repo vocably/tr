@@ -1,1 +1,3 @@
-["mengesahkan","meluluskan","memperakui"]
+mengesahkan
+meluluskan
+memperakui

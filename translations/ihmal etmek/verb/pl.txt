@@ -1,1 +1,2 @@
-["zaniedbywać","lekceważyć"]
+zaniedbywać
+lekceważyć

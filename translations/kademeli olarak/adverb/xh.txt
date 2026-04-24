@@ -1,1 +1,2 @@
-["ngokuthe ngcembe","ngokuthe chu"]
+ngokuthe ngcembe
+ngokuthe chu

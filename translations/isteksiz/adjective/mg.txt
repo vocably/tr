@@ -1,1 +1,2 @@
-["tsy mazoto","tsy te-hanao"]
+tsy mazoto
+tsy te-hanao

@@ -1,1 +1,2 @@
-["dərhal","tez"]
+dərhal
+tez

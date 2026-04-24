@@ -1,1 +1,3 @@
-["tseem ceeb","muaj nqis","ceeb toom"]
+tseem ceeb
+muaj nqis
+ceeb toom

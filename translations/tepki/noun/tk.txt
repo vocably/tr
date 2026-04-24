@@ -1,1 +1,2 @@
-["seslenme","gaýtawul"]
+seslenme
+gaýtawul

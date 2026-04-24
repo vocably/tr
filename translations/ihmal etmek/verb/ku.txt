@@ -1,1 +1,2 @@
-["îhmal kirin","paşguh kirin"]
+îhmal kirin
+paşguh kirin

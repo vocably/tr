@@ -1,1 +1,2 @@
-["uveriti","ubediti"]
+uveriti
+ubediti

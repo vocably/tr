@@ -1,1 +1,2 @@
-["groft","uhøfligt"]
+groft
+uhøfligt

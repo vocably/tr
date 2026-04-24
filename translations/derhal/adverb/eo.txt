@@ -1,1 +1,2 @@
-["tuj","senprokraste"]
+tuj
+senprokraste

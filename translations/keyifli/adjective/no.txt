@@ -1,1 +1,2 @@
-["munter","hyggelig"]
+munter
+hyggelig

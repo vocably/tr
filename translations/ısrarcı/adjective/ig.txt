@@ -1,1 +1,2 @@
-["onye na-ekwusi ike","onye isi ike"]
+onye na-ekwusi ike
+onye isi ike

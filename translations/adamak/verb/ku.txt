@@ -1,1 +1,2 @@
-["wekîl kirin","danîn"]
+wekîl kirin
+danîn

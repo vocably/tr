@@ -1,1 +1,3 @@
-["mieritreritra","mandinika","manahy"]
+mieritreritra
+mandinika
+manahy

@@ -1,1 +1,2 @@
-["óviljugur","lystarlaus"]
+óviljugur
+lystarlaus

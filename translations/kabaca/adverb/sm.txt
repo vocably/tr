@@ -1,1 +1,2 @@
-["fa'api'opi'o","tusa"]
+fa'api'opi'o
+tusa

@@ -1,1 +1,3 @@
-["bevestigen","goedkeuren","bekrachtigen"]
+bevestigen
+goedkeuren
+bekrachtigen

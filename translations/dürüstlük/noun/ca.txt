@@ -1,1 +1,2 @@
-["honestedat","integritat"]
+honestedat
+integritat

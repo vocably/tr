@@ -1,1 +1,2 @@
-["bertegas","degil"]
+bertegas
+degil

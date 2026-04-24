@@ -1,1 +1,3 @@
-["soglia","limite","passo"]
+soglia
+limite
+passo

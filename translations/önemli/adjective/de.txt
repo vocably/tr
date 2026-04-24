@@ -1,1 +1,3 @@
-["wichtig","bedeutend","erheblich"]
+wichtig
+bedeutend
+erheblich

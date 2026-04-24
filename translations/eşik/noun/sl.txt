@@ -1,1 +1,3 @@
-["prag","meja","razvodnica"]
+prag
+meja
+razvodnica

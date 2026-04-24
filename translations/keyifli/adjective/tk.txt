@@ -1,1 +1,2 @@
-["şadyýan","keýpiçag"]
+şadyýan
+keýpiçag

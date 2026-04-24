@@ -1,1 +1,2 @@
-["plezierig","leuk"]
+plezierig
+leuk

@@ -1,1 +1,2 @@
-["järkjärgult","astmeliselt"]
+järkjärgult
+astmeliselt

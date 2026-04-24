@@ -1,1 +1,2 @@
-["pakari","manawanui"]
+pakari
+manawanui

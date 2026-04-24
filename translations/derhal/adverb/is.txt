@@ -1,1 +1,2 @@
-["strax","án tafar"]
+strax
+án tafar

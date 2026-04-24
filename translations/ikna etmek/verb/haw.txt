@@ -1,1 +1,2 @@
-["hoʻohuli","hoʻolilo"]
+hoʻohuli
+hoʻolilo

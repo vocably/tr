@@ -1,1 +1,3 @@
-["å tenke","å vurdere","å gruble"]
+å tenke
+å vurdere
+å gruble
