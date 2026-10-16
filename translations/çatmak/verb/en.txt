@@ -1,0 +1,4 @@
+collide
+encounter
+construct
+frown

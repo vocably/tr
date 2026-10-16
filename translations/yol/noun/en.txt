@@ -1,0 +1,10 @@
+road
+way
+path
+journey
+trip
+route
+method
+means
+distance
+fare

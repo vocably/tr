@@ -1,0 +1,5 @@
+open
+clear
+light
+frank
+explicit

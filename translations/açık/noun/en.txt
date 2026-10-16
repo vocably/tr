@@ -1,0 +1,5 @@
+open
+clear
+frank
+uncovered
+debt

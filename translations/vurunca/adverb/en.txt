@@ -1,0 +1,2 @@
+when hit
+when struck

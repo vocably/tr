@@ -1,0 +1,7 @@
+hit
+strike
+beat
+knock
+shoot
+punch
+slap

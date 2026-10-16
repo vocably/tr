@@ -1,0 +1,5 @@
+throw
+shoot
+kick out
+take a step
+give up

@@ -1,0 +1,4 @@
+middle
+medium
+average
+central

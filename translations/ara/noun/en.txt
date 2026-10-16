@@ -1,0 +1,4 @@
+interval
+gap
+space
+time

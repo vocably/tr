@@ -1,0 +1,5 @@
+mold
+pattern
+form
+last
+stereotype

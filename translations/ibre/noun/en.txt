@@ -1,0 +1,3 @@
+hand
+needle
+indicator
